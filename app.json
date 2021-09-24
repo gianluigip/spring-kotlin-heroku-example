@@ -1,0 +1,5 @@
+{
+  "name": "Spring Kotlin Heroku Example",
+  "description": "Sample service to config Heroku CI/CD.",
+  "image": "heroku/gradle"
+}
